@@ -1,0 +1,15 @@
+PUT /_template/geostore
+{
+   "order": 0,
+  "template": "geostore*",
+  "mappings": {
+    "_default_": {
+      "properties": {
+        "location": {
+          "type": "geo_point"
+                  
+              }
+          }
+       }
+}
+}
