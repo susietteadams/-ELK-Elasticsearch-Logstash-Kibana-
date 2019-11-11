@@ -1,4 +1,5 @@
-ELK-Elasticsearch-Logstash-Kibana
+![image](https://user-images.githubusercontent.com/43391446/68557884-393f0380-0405-11ea-8851-2d2552a2a0fd.png)
+
 Launching  ELK (Elasticsearch, Logstash, Kibana) configurations
 
 Introduction
